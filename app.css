@@ -1,0 +1,23 @@
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color {
+    background-color: black;
+}
+
+
+.header-container {
+    max-width: 200px;
+    justify-content: space-around;
+}
+
+.btn {
+    flex-basis: 40%;
+    flex-direction: row;
+    flex-basis: 10%;
+    border-bottom: ;
+}
