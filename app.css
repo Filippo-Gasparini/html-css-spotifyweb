@@ -84,11 +84,38 @@ button {
     padding-top: 20px;
     padding-left: 15px;
     color: white;
-    flex: wrap;
+}
+
+.item-5 {
+    padding-top: 20px;
+    padding-left: 15px;
+    color: white;
 }
 
 
+ button {
+    background-color: grey;
+    border: 3px solid rgb(128, 128, 128);
+    
+}
 
+
+.item-6 {
+    padding-top: 20px;
+    padding-left: 15px;
+    color: white;
+    margin-top: 20px;
+
+}
+
+
+.item-7 {
+    padding-top: 560px;
+    padding-left: 15px;
+    color: white;
+    margin-top: 20px;
+
+}
 
 .app-content {
     display: flex;
