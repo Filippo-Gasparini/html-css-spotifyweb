@@ -44,6 +44,7 @@ button {
 body {
     height: 100vh;
     display: flex;
+    background-color: rgba(4, 1, 14, 1);
 }
 
 .sidebar {
@@ -123,8 +124,25 @@ img {
 
 }
 
+
+nav {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+
 .app-content {
     background-color: rgb(15, 14, 14);
-    margin-right: 100%;
-    
+    margin-left: 3px;
+
+
+}
+
+img {
+    max-width: 100%;
 }
