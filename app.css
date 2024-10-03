@@ -40,8 +40,13 @@ button {
 
 /*inizio*/
 
-.sidebar {
+
+body {
+    height: 100vh;
     display: flex;
+}
+
+.sidebar {
     width: 200px;
     height: 1100px;
     flex-direction: column;
@@ -49,9 +54,10 @@ button {
 }
 
 
-.img {
-    padding-top: 10px;
+img {
+    padding-top: 15px;
     max-width: 100%;
+    padding-right: 15px;
 }
 
 
@@ -118,8 +124,7 @@ button {
 }
 
 .app-content {
-    display: flex;
-    flex-basis: auto;
-    margin: 100%;
-    flex-direction: row;
+    background-color: rgb(15, 14, 14);
+    margin-right: 100%;
+    
 }
